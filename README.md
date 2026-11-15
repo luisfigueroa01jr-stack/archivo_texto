@@ -1,4 +1,9 @@
 # Ejercicio 2: Archivo de texto
+
+## Instrucciones
+2. Archivo de texto: programa que guarde una lista de al menos 5 elementos (por ejemplo, tareas pendientes) en un archivo de texto, y otro modo que las lea y las muestre en pantalla.
+
+## Solucion
 Guarda una lista de tareas pendientes en `tareas.txt` y, en otro modo, las lee y las muestra numeradas. Las tareas siguen ahi aunque se cierre el programa.
 
 **Archivos:** `ArchivoTareas.h/.cpp` (`guardar` con `std::ofstream`, `leer` con `std::ifstream`) · `main.cpp` (menu con los dos modos)
